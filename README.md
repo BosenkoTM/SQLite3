@@ -1,3 +1,2 @@
-# Sample SQLite databeses
-
-This repo contains sample SQLite databases and the [sandbox](sandbox) to query them.
+# SQLite
+В этом репозитории содержатся образцы баз данных SQLite и [sandbox](sandbox) для запросов к ним.
